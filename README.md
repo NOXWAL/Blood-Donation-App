@@ -1,6 +1,6 @@
 A responsive blood donation web app. People can search for donors by blood group and pincode, register as a donor in four steps, and find blood banks and hospitals near their location.
 
-Live demo: https://uj1710glitch.github.io/Blood-Donation-App/
+Live demo: https://NOXWAL.github.io/Blood-Donation-App/
 
 <div align="center">
 
